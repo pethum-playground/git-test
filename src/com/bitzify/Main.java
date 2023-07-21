@@ -5,3 +5,9 @@ public class Main {
         System.out.println("Hello world!");
     }
 }
+
+class Student{
+    void name(){
+        System.out.println("Hello world!");
+    }
+}
